@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishesh1717
+- 👋 Hi, I’m Vishesh Hasoriya.
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning reactjs and react native
 - 📫 You can reach me at visheshh16@gmail.com
