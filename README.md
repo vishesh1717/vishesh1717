@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishesh Hasoriya.
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning reactjs and react native
+- 👀 Frontend Developer at Cognizant Technology Solutions .
+- 🌱 3+ years of experience in Angular and React.
 - 📫 You can reach me at visheshh16@gmail.com
 
 <!---
